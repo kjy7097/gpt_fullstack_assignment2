@@ -1,3 +1,5 @@
 {
-    "notebook.formatOnSave.enabled": true
+    "notebook.formatOnSave.enabled": true,
+    "editor.formatOnSave": true,
+    "python.analysis.autoImportCompletions": false
 }
